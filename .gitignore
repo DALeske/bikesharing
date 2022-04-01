@@ -6,6 +6,10 @@ __pycache__/
 #files
 config.py
 config.js
+201908-citibike-tripdata.csv
+201908-citibike-tripdata_trans.csv
+
+
 
 # C extensions
 *.so
