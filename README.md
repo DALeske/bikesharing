@@ -19,6 +19,25 @@ Based on analysis, the following observations were made:
 -Walk-up customers most often ride on weekends
 -Weekend riders appear to ride slightly longer than subscribed riders
 
+### Figure 1
+Rider Characteristics
+![Figure 1](/Resources/Bike1.png)
+
+### Figure 2
+Length of Rides and Timing of Rides
+![Figure 2](/Resources/Bike2.png)
+
+### Figure 3
+Does Gender Matter? A comparison of rides by gender
+![Figure 3](/Resources/Bike3.png)
+
+### Figure 4
+Length of Rides and Timing of Rides by Gender
+![Figure 4](/Resources/Bike4.png)
+
+### Figure 5
+Walk-up Customers vs Regular Subscribers
+![Figure 5](/Resources/Bike5.png)
 ## Conclusions
 Most subscribers use the bike shares as a way to commute to work, but will utilize them on the weekends as well. Weekend and middle of the day ridership is primarily from walk-up customers, quite possibly individuals or families on vacation.
 
