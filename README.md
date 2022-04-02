@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Module 14 Challenge: Bike Sharing
 
 ![Map of NYC](/Resources/BikeA.png)
